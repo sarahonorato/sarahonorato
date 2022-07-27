@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahonorato! 
-- 💻 Software Engineer at @Microsoft
+- 💻 Software Engineer at Microsoft
 - 🌎 Living in North Vancouver, BC - Canada
 
 <!---
